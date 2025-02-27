@@ -6,13 +6,16 @@ Sobre mim
 
 Habilidades
 💻 Linguagens: JavaScript, TypeScript, Python, Java
-🚀 Frameworks: React, Next.js
+🚀 Frameworks: React, Node.js, Express, Next.js
+🛢️ Banco de Dados: PostgreSQL, MongoDB, MySQL
 ☁️ Cloud: AWS, Azure
-🛠️ Ferramentas: Git, Visual Studio Code, GitHub
+🛠️ Ferramentas: Git, Docker, Visual Studio Code, Jira, GitHub
+🔒 Segurança: JWT, OAuth2.0, Criptografia de Dados
 
 Contato
 📧 E-mail: guilhermesilvaalvesvieira@gmail.com
 💼 LinkedIn: linkedin.com/in/guilhermealves27
+🐦 Twitter: @GuilhermeAlves27
 
 <!---
 GuilhermeAlves27/GuilhermeAlves27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
