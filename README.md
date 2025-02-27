@@ -8,9 +8,8 @@
 ## Habilidades
 💻 **Linguagens**: JavaScript, TypeScript, Python, Java  
 🚀 **Frameworks**: React, Node.js, Express, Next.js  
-🛢️ **Banco de Dados**: PostgreSQL, MongoDB, MySQL  
 ☁️ **Cloud**: AWS, Azure  
-🛠️ **Ferramentas**: Git, Docker, Visual Studio Code, Jira, GitHub  
+🛠️ **Ferramentas**: Git, Visual Studio Code, GitHub  
 🔒 **Segurança**: JWT, OAuth2.0, Criptografia de Dados
 
 ## Contato
