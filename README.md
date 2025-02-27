@@ -1,24 +1,18 @@
-👋 Oi, eu sou o @GuilhermeAlves27
-🔹 Desenvolvedor FullStack
-🔹 Dedicado e apaixonado por aprender e crescer na área de tecnologia.
+Olá, eu sou o Guilherme Alves 👋
+Sobre mim
+👨‍💻 Desenvolvedor FullStack
+🎓 Apaixonado por tecnologia e sempre em busca de aprender e crescer na área de desenvolvimento de software
+🌍 Entusiasta de novas tecnologias e práticas de desenvolvimento
 
-👀 Tenho interesse em...
-🔸 Encontrar novas oportunidades na área de desenvolvimento de software.
-🔸 Trabalhar em projetos de front-end e back-end.
-🔸 Melhorar constantemente minhas habilidades e aprender novas tecnologias.
+Habilidades
+💻 Linguagens: JavaScript, TypeScript, Python, Java
+🚀 Frameworks: React, Next.js
+☁️ Cloud: AWS, Azure
+🛠️ Ferramentas: Git, Visual Studio Code, GitHub
 
-🌱 Atualmente estou aprendendo...
-🔸 JavaScript avançado (React, Node.js)
-🔸 Explorando gerenciamento e otimização de banco de dados (SQL, NoSQL)
-🔸 Melhores práticas em arquitetura e desenvolvimento de software.
-
-💞️ Estou buscando colaborar em...
-🔸 Projetos open-source.
-🔸 Aplicações web e equipes de desenvolvimento em busca de um Desenvolvedor FullStack apaixonado.
-
-📫 Como me encontrar...
-🔸 E-mail: guilhermesilvaalvesvieira@gmail.com
-🔸 LinkedIn: linkedin.com/in/guilhermealves27
+Contato
+📧 E-mail: guilhermesilvaalvesvieira@gmail.com
+💼 LinkedIn: linkedin.com/in/guilhermealves27
 
 <!---
 GuilhermeAlves27/GuilhermeAlves27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
