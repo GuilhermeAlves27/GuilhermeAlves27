@@ -1,5 +1,5 @@
 👋 Oi, eu sou o @GuilhermeAlves27
-🔹 Desenvolvedor FullStack Júnior
+🔹 Desenvolvedor FullStack
 🔹 Dedicado e apaixonado por aprender e crescer na área de tecnologia.
 
 👀 Tenho interesse em...
