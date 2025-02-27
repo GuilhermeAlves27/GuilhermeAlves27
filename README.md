@@ -14,8 +14,7 @@
 
 ## Contato
 📧 **E-mail**: guilhermesilvaalvesvieira@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/guilhermealves27](https://linkedin.com/in/guilhermealves27)  
-🐦 **Twitter**: [@GuilhermeAlves27](https://twitter.com/GuilhermeAlves27)
+💼 **LinkedIn**: linkedin.com/in/guilhermealves27
 
 
 <!---
