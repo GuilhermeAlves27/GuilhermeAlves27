@@ -6,8 +6,8 @@
 🌍 Entusiasta de novas tecnologias e práticas de desenvolvimento
 
 ## Habilidades
-💻 **Linguagens**: JavaScript, TypeScript, Python, Java  
-🚀 **Frameworks**: React, Node.js, Express, Next.js  
+💻 **Linguagens**: JavaScript, TypeScript 
+🚀 **Frameworks**: React, Next.js  
 ☁️ **Cloud**: AWS, Azure  
 🛠️ **Ferramentas**: Git, Visual Studio Code, GitHub  
 🔒 **Segurança**: JWT, OAuth2.0, Criptografia de Dados
