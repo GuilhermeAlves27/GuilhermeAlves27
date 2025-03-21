@@ -8,9 +8,7 @@
 ## Habilidades
 💻 **Linguagens**: JavaScript, TypeScript 
 🚀 **Frameworks**: React, Next.js  
-☁️ **Cloud**: AWS, Azure  
 🛠️ **Ferramentas**: Git, Visual Studio Code, GitHub  
-🔒 **Segurança**: JWT, OAuth2.0, Criptografia de Dados
 
 ## Contato
 📧 **E-mail**: guilhermesilvaalvesvieira@gmail.com  
