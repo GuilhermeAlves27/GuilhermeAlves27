@@ -9,7 +9,9 @@
 
 ## Habilidades
 💻 **Linguagens**: JavaScript, TypeScript 
+
 🚀 **Frameworks**: React, Next.js  
+
 🛠️ **Ferramentas**: Git, Visual Studio Code, GitHub  
 
 ## Contato
