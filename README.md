@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme Alves 👋
 
 ## Sobre mim
-👨‍💻 Desenvolvedor FullStack  
+👨‍💻 Desenvolvedor Front-end
 🎓 Apaixonado por tecnologia e sempre em busca de aprender e crescer na área de desenvolvimento de software  
 🌍 Entusiasta de novas tecnologias e práticas de desenvolvimento
 
