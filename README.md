@@ -8,11 +8,11 @@
 🌍 Entusiasta de novas tecnologias e práticas de desenvolvimento
 
 ## Habilidades
-💻 **Linguagens**: JavaScript, TypeScript 
+💻 **Tecnologia**:Html, Css, Tailwind, JavaScript, TypeScript 
 
-🚀 **Frameworks**: React, Next.js  
+🚀 **Frameworks**: React 
 
-🛠️ **Ferramentas**: Git, Visual Studio Code, GitHub  
+🛠️ **Ferramentas**: Git, GitHub, Visual Studio Code 
 
 ## Contato
 📧 **E-mail**: guilhermesilvaalvesvieira@gmail.com  
