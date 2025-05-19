@@ -8,7 +8,7 @@
 🌍 Entusiasta de novas tecnologias e práticas de desenvolvimento
 
 ## Habilidades
-💻 **Tecnologia**:Html, Css, Tailwind, JavaScript, TypeScript 
+💻 **Tecnologia**:Html, Css, Tailwind, JavaScript, jQuery, TypeScript 
 
 🚀 **Frameworks**: React 
 
